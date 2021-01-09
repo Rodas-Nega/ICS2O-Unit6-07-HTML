@@ -15,7 +15,7 @@ function calculateEquation () {
     } else if (digit2 < 0) {
       digit2++
     }
-    // conditions that check to see if digit2 is greater than 0 then decrease it by that increment other if it's less than 0 then increase it by that increment                               
+    // conditions that check to see if digit2 is greater than 0 then decrease it by that increment other if it's less than 0 then increase it by that increment
     result += parseInt(digit1)
     // adds digit1 to itself by the number of digit2 times
   }
